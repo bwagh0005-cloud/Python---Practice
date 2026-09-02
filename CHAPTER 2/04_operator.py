@@ -27,14 +27,14 @@ print (d)
 
 e = True or False
 
-# truth tale of  "or"
+# truth table of  "or"
 
 print ("True or False", True or False)
 print ("True  or True", True or True)
 print("False or False", False or False)
 print ("False or True", False or True)
   
-# truth tale of  "and"
+# truth table of  "and"
 print ("True and  False", True and False)
 print ("True  and  True", True and True)      # alt + curser = multi fuctinal
 print("False and  False", False and  False)
